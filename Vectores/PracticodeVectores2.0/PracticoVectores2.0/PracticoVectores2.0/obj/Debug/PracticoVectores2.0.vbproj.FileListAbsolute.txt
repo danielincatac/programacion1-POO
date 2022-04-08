@@ -1,0 +1,12 @@
+D:\Program1 - Mollo\Program\Vectores\PracticodeVectores2.0\PracticoVectores2.0\PracticoVectores2.0\bin\Debug\PracticoVectores2.0.exe.config
+D:\Program1 - Mollo\Program\Vectores\PracticodeVectores2.0\PracticoVectores2.0\PracticoVectores2.0\bin\Debug\PracticoVectores2.0.exe
+D:\Program1 - Mollo\Program\Vectores\PracticodeVectores2.0\PracticoVectores2.0\PracticoVectores2.0\bin\Debug\PracticoVectores2.0.pdb
+D:\Program1 - Mollo\Program\Vectores\PracticodeVectores2.0\PracticoVectores2.0\PracticoVectores2.0\bin\Debug\PracticoVectores2.0.xml
+D:\Program1 - Mollo\Program\Vectores\PracticodeVectores2.0\PracticoVectores2.0\PracticoVectores2.0\obj\Debug\PracticoVectores2.0.vbprojAssemblyReference.cache
+D:\Program1 - Mollo\Program\Vectores\PracticodeVectores2.0\PracticoVectores2.0\PracticoVectores2.0\obj\Debug\PracticoVectores2._0.Form1.resources
+D:\Program1 - Mollo\Program\Vectores\PracticodeVectores2.0\PracticoVectores2.0\PracticoVectores2.0\obj\Debug\PracticoVectores2._0.Resources.resources
+D:\Program1 - Mollo\Program\Vectores\PracticodeVectores2.0\PracticoVectores2.0\PracticoVectores2.0\obj\Debug\PracticoVectores2.0.vbproj.GenerateResource.cache
+D:\Program1 - Mollo\Program\Vectores\PracticodeVectores2.0\PracticoVectores2.0\PracticoVectores2.0\obj\Debug\PracticoVectores2.0.vbproj.CoreCompileInputs.cache
+D:\Program1 - Mollo\Program\Vectores\PracticodeVectores2.0\PracticoVectores2.0\PracticoVectores2.0\obj\Debug\PracticoVectores2.0.exe
+D:\Program1 - Mollo\Program\Vectores\PracticodeVectores2.0\PracticoVectores2.0\PracticoVectores2.0\obj\Debug\PracticoVectores2.0.xml
+D:\Program1 - Mollo\Program\Vectores\PracticodeVectores2.0\PracticoVectores2.0\PracticoVectores2.0\obj\Debug\PracticoVectores2.0.pdb

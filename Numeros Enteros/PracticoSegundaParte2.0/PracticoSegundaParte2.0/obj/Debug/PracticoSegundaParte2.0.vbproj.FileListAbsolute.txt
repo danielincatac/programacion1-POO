@@ -1,0 +1,10 @@
+D:\IniciandoVB\PracticoSegundaParte2.0\PracticoSegundaParte2.0\bin\Debug\PracticoSegundaParte2.0.exe.config
+D:\IniciandoVB\PracticoSegundaParte2.0\PracticoSegundaParte2.0\bin\Debug\PracticoSegundaParte2.0.exe
+D:\IniciandoVB\PracticoSegundaParte2.0\PracticoSegundaParte2.0\bin\Debug\PracticoSegundaParte2.0.pdb
+D:\IniciandoVB\PracticoSegundaParte2.0\PracticoSegundaParte2.0\bin\Debug\PracticoSegundaParte2.0.xml
+D:\IniciandoVB\PracticoSegundaParte2.0\PracticoSegundaParte2.0\obj\Debug\PracticoSegundaParte2._0.Form1.resources
+D:\IniciandoVB\PracticoSegundaParte2.0\PracticoSegundaParte2.0\obj\Debug\PracticoSegundaParte2._0.Resources.resources
+D:\IniciandoVB\PracticoSegundaParte2.0\PracticoSegundaParte2.0\obj\Debug\PracticoSegundaParte2.0.vbproj.GenerateResource.Cache
+D:\IniciandoVB\PracticoSegundaParte2.0\PracticoSegundaParte2.0\obj\Debug\PracticoSegundaParte2.0.exe
+D:\IniciandoVB\PracticoSegundaParte2.0\PracticoSegundaParte2.0\obj\Debug\PracticoSegundaParte2.0.xml
+D:\IniciandoVB\PracticoSegundaParte2.0\PracticoSegundaParte2.0\obj\Debug\PracticoSegundaParte2.0.pdb

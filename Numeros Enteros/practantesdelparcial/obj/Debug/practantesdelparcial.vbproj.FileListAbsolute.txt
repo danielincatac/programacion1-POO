@@ -1,0 +1,12 @@
+D:\Program1 - Mollo\Numeros Enteros\Practicos y Ejercicios de Program 1\practantesdelparcial\bin\Debug\practantesdelparcial.exe.config
+D:\Program1 - Mollo\Numeros Enteros\Practicos y Ejercicios de Program 1\practantesdelparcial\bin\Debug\practantesdelparcial.exe
+D:\Program1 - Mollo\Numeros Enteros\Practicos y Ejercicios de Program 1\practantesdelparcial\bin\Debug\practantesdelparcial.pdb
+D:\Program1 - Mollo\Numeros Enteros\Practicos y Ejercicios de Program 1\practantesdelparcial\bin\Debug\practantesdelparcial.xml
+D:\Program1 - Mollo\Numeros Enteros\Practicos y Ejercicios de Program 1\practantesdelparcial\obj\Debug\practantesdelparcial.vbprojAssemblyReference.cache
+D:\Program1 - Mollo\Numeros Enteros\Practicos y Ejercicios de Program 1\practantesdelparcial\obj\Debug\practantesdelparcial.Form1.resources
+D:\Program1 - Mollo\Numeros Enteros\Practicos y Ejercicios de Program 1\practantesdelparcial\obj\Debug\practantesdelparcial.Resources.resources
+D:\Program1 - Mollo\Numeros Enteros\Practicos y Ejercicios de Program 1\practantesdelparcial\obj\Debug\practantesdelparcial.vbproj.GenerateResource.cache
+D:\Program1 - Mollo\Numeros Enteros\Practicos y Ejercicios de Program 1\practantesdelparcial\obj\Debug\practantesdelparcial.vbproj.CoreCompileInputs.cache
+D:\Program1 - Mollo\Numeros Enteros\Practicos y Ejercicios de Program 1\practantesdelparcial\obj\Debug\practantesdelparcial.exe
+D:\Program1 - Mollo\Numeros Enteros\Practicos y Ejercicios de Program 1\practantesdelparcial\obj\Debug\practantesdelparcial.xml
+D:\Program1 - Mollo\Numeros Enteros\Practicos y Ejercicios de Program 1\practantesdelparcial\obj\Debug\practantesdelparcial.pdb

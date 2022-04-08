@@ -1,0 +1,12 @@
+D:\Program1 - Mollo\Numeros Enteros\Practicos y Ejercicios de Program 1\ModelosDeExamen\obj\Debug\ModelosDeExamen.vbprojAssemblyReference.cache
+D:\Program1 - Mollo\Numeros Enteros\Practicos y Ejercicios de Program 1\ModelosDeExamen\obj\Debug\ModelosDeExamen.Form1.resources
+D:\Program1 - Mollo\Numeros Enteros\Practicos y Ejercicios de Program 1\ModelosDeExamen\obj\Debug\ModelosDeExamen.Resources.resources
+D:\Program1 - Mollo\Numeros Enteros\Practicos y Ejercicios de Program 1\ModelosDeExamen\obj\Debug\ModelosDeExamen.vbproj.GenerateResource.cache
+D:\Program1 - Mollo\Numeros Enteros\Practicos y Ejercicios de Program 1\ModelosDeExamen\obj\Debug\ModelosDeExamen.vbproj.CoreCompileInputs.cache
+D:\Program1 - Mollo\Numeros Enteros\Practicos y Ejercicios de Program 1\ModelosDeExamen\bin\Debug\ModelosDeExamen.exe.config
+D:\Program1 - Mollo\Numeros Enteros\Practicos y Ejercicios de Program 1\ModelosDeExamen\bin\Debug\ModelosDeExamen.exe
+D:\Program1 - Mollo\Numeros Enteros\Practicos y Ejercicios de Program 1\ModelosDeExamen\bin\Debug\ModelosDeExamen.pdb
+D:\Program1 - Mollo\Numeros Enteros\Practicos y Ejercicios de Program 1\ModelosDeExamen\bin\Debug\ModelosDeExamen.xml
+D:\Program1 - Mollo\Numeros Enteros\Practicos y Ejercicios de Program 1\ModelosDeExamen\obj\Debug\ModelosDeExamen.exe
+D:\Program1 - Mollo\Numeros Enteros\Practicos y Ejercicios de Program 1\ModelosDeExamen\obj\Debug\ModelosDeExamen.xml
+D:\Program1 - Mollo\Numeros Enteros\Practicos y Ejercicios de Program 1\ModelosDeExamen\obj\Debug\ModelosDeExamen.pdb

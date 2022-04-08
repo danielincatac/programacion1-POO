@@ -1,0 +1,12 @@
+D:\Program1 - Mollo\Program\Vectores\RepechajeVectores\RepechajeVectores\bin\Debug\RepechajeVectores.exe.config
+D:\Program1 - Mollo\Program\Vectores\RepechajeVectores\RepechajeVectores\bin\Debug\RepechajeVectores.exe
+D:\Program1 - Mollo\Program\Vectores\RepechajeVectores\RepechajeVectores\bin\Debug\RepechajeVectores.pdb
+D:\Program1 - Mollo\Program\Vectores\RepechajeVectores\RepechajeVectores\bin\Debug\RepechajeVectores.xml
+D:\Program1 - Mollo\Program\Vectores\RepechajeVectores\RepechajeVectores\obj\Debug\RepechajeVectores.vbprojAssemblyReference.cache
+D:\Program1 - Mollo\Program\Vectores\RepechajeVectores\RepechajeVectores\obj\Debug\RepechajeVectores.Form1.resources
+D:\Program1 - Mollo\Program\Vectores\RepechajeVectores\RepechajeVectores\obj\Debug\RepechajeVectores.Resources.resources
+D:\Program1 - Mollo\Program\Vectores\RepechajeVectores\RepechajeVectores\obj\Debug\RepechajeVectores.vbproj.GenerateResource.cache
+D:\Program1 - Mollo\Program\Vectores\RepechajeVectores\RepechajeVectores\obj\Debug\RepechajeVectores.vbproj.CoreCompileInputs.cache
+D:\Program1 - Mollo\Program\Vectores\RepechajeVectores\RepechajeVectores\obj\Debug\RepechajeVectores.exe
+D:\Program1 - Mollo\Program\Vectores\RepechajeVectores\RepechajeVectores\obj\Debug\RepechajeVectores.xml
+D:\Program1 - Mollo\Program\Vectores\RepechajeVectores\RepechajeVectores\obj\Debug\RepechajeVectores.pdb

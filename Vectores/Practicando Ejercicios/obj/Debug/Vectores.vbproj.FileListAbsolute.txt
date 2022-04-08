@@ -1,0 +1,24 @@
+D:\Program1 - Mollo\Program\Vectores\bin\Debug\Vectores.exe.config
+D:\Program1 - Mollo\Program\Vectores\bin\Debug\Vectores.exe
+D:\Program1 - Mollo\Program\Vectores\bin\Debug\Vectores.pdb
+D:\Program1 - Mollo\Program\Vectores\bin\Debug\Vectores.xml
+D:\Program1 - Mollo\Program\Vectores\obj\Debug\Vectores.vbprojAssemblyReference.cache
+D:\Program1 - Mollo\Program\Vectores\obj\Debug\Vectores.Form1.resources
+D:\Program1 - Mollo\Program\Vectores\obj\Debug\Vectores.Resources.resources
+D:\Program1 - Mollo\Program\Vectores\obj\Debug\Vectores.vbproj.GenerateResource.cache
+D:\Program1 - Mollo\Program\Vectores\obj\Debug\Vectores.vbproj.CoreCompileInputs.cache
+D:\Program1 - Mollo\Program\Vectores\obj\Debug\Vectores.exe
+D:\Program1 - Mollo\Program\Vectores\obj\Debug\Vectores.xml
+D:\Program1 - Mollo\Program\Vectores\obj\Debug\Vectores.pdb
+D:\Program1 - Mollo\Program\Vectores\Practicando Ejercicios\bin\Debug\Vectores.exe.config
+D:\Program1 - Mollo\Program\Vectores\Practicando Ejercicios\bin\Debug\Vectores.exe
+D:\Program1 - Mollo\Program\Vectores\Practicando Ejercicios\bin\Debug\Vectores.pdb
+D:\Program1 - Mollo\Program\Vectores\Practicando Ejercicios\bin\Debug\Vectores.xml
+D:\Program1 - Mollo\Program\Vectores\Practicando Ejercicios\obj\Debug\Vectores.vbprojAssemblyReference.cache
+D:\Program1 - Mollo\Program\Vectores\Practicando Ejercicios\obj\Debug\Vectores.Form1.resources
+D:\Program1 - Mollo\Program\Vectores\Practicando Ejercicios\obj\Debug\Vectores.Resources.resources
+D:\Program1 - Mollo\Program\Vectores\Practicando Ejercicios\obj\Debug\Vectores.vbproj.GenerateResource.cache
+D:\Program1 - Mollo\Program\Vectores\Practicando Ejercicios\obj\Debug\Vectores.vbproj.CoreCompileInputs.cache
+D:\Program1 - Mollo\Program\Vectores\Practicando Ejercicios\obj\Debug\Vectores.exe
+D:\Program1 - Mollo\Program\Vectores\Practicando Ejercicios\obj\Debug\Vectores.xml
+D:\Program1 - Mollo\Program\Vectores\Practicando Ejercicios\obj\Debug\Vectores.pdb

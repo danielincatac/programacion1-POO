@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VBTwich", "VBTwich.vbproj", "{F0CD4B49-D0DD-43BB-9C3C-6E217C8E796E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0CD4B49-D0DD-43BB-9C3C-6E217C8E796E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0CD4B49-D0DD-43BB-9C3C-6E217C8E796E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0CD4B49-D0DD-43BB-9C3C-6E217C8E796E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0CD4B49-D0DD-43BB-9C3C-6E217C8E796E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA4D33A6-9DB6-4B82-8E5B-FE6A32EC69C1}
+	EndGlobalSection
+EndGlobal

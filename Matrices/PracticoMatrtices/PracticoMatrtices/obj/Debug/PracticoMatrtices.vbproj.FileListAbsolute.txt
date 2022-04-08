@@ -1,0 +1,12 @@
+D:\Program1 - Mollo\Program\Matrices\PracticoMatrtices\PracticoMatrtices\bin\Debug\PracticoMatrtices.exe.config
+D:\Program1 - Mollo\Program\Matrices\PracticoMatrtices\PracticoMatrtices\bin\Debug\PracticoMatrtices.exe
+D:\Program1 - Mollo\Program\Matrices\PracticoMatrtices\PracticoMatrtices\bin\Debug\PracticoMatrtices.pdb
+D:\Program1 - Mollo\Program\Matrices\PracticoMatrtices\PracticoMatrtices\bin\Debug\PracticoMatrtices.xml
+D:\Program1 - Mollo\Program\Matrices\PracticoMatrtices\PracticoMatrtices\obj\Debug\PracticoMatrtices.vbprojAssemblyReference.cache
+D:\Program1 - Mollo\Program\Matrices\PracticoMatrtices\PracticoMatrtices\obj\Debug\PracticoMatrtices.Form1.resources
+D:\Program1 - Mollo\Program\Matrices\PracticoMatrtices\PracticoMatrtices\obj\Debug\PracticoMatrtices.Resources.resources
+D:\Program1 - Mollo\Program\Matrices\PracticoMatrtices\PracticoMatrtices\obj\Debug\PracticoMatrtices.vbproj.GenerateResource.cache
+D:\Program1 - Mollo\Program\Matrices\PracticoMatrtices\PracticoMatrtices\obj\Debug\PracticoMatrtices.vbproj.CoreCompileInputs.cache
+D:\Program1 - Mollo\Program\Matrices\PracticoMatrtices\PracticoMatrtices\obj\Debug\PracticoMatrtices.exe
+D:\Program1 - Mollo\Program\Matrices\PracticoMatrtices\PracticoMatrtices\obj\Debug\PracticoMatrtices.xml
+D:\Program1 - Mollo\Program\Matrices\PracticoMatrtices\PracticoMatrtices\obj\Debug\PracticoMatrtices.pdb

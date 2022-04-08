@@ -1,0 +1,12 @@
+D:\Program1 - Mollo\Numeros Enteros\Practicos y Ejercicios de Program 1\PrimerParcialMollo\bin\Debug\PrimerParcialMollo.exe.config
+D:\Program1 - Mollo\Numeros Enteros\Practicos y Ejercicios de Program 1\PrimerParcialMollo\bin\Debug\PrimerParcialMollo.exe
+D:\Program1 - Mollo\Numeros Enteros\Practicos y Ejercicios de Program 1\PrimerParcialMollo\bin\Debug\PrimerParcialMollo.pdb
+D:\Program1 - Mollo\Numeros Enteros\Practicos y Ejercicios de Program 1\PrimerParcialMollo\bin\Debug\PrimerParcialMollo.xml
+D:\Program1 - Mollo\Numeros Enteros\Practicos y Ejercicios de Program 1\PrimerParcialMollo\obj\Debug\PrimerParcialMollo.vbprojAssemblyReference.cache
+D:\Program1 - Mollo\Numeros Enteros\Practicos y Ejercicios de Program 1\PrimerParcialMollo\obj\Debug\PrimerParcialMollo.Form1.resources
+D:\Program1 - Mollo\Numeros Enteros\Practicos y Ejercicios de Program 1\PrimerParcialMollo\obj\Debug\PrimerParcialMollo.Resources.resources
+D:\Program1 - Mollo\Numeros Enteros\Practicos y Ejercicios de Program 1\PrimerParcialMollo\obj\Debug\PrimerParcialMollo.vbproj.GenerateResource.cache
+D:\Program1 - Mollo\Numeros Enteros\Practicos y Ejercicios de Program 1\PrimerParcialMollo\obj\Debug\PrimerParcialMollo.vbproj.CoreCompileInputs.cache
+D:\Program1 - Mollo\Numeros Enteros\Practicos y Ejercicios de Program 1\PrimerParcialMollo\obj\Debug\PrimerParcialMollo.exe
+D:\Program1 - Mollo\Numeros Enteros\Practicos y Ejercicios de Program 1\PrimerParcialMollo\obj\Debug\PrimerParcialMollo.xml
+D:\Program1 - Mollo\Numeros Enteros\Practicos y Ejercicios de Program 1\PrimerParcialMollo\obj\Debug\PrimerParcialMollo.pdb
